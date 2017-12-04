@@ -4,3 +4,8 @@ build
 devel
 
 profile.tmp
+
+mac_sys_int/
+mac_sys_int.zip
+simulator
+.DS_Store
